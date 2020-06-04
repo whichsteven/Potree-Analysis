@@ -73,7 +73,7 @@ The general file structure for a Potree webpage is as below:
 [Potree Webpage]
     │index.html   --- the Potree webpage
     ├─libs        --- geospatial web service;
-    │								  the folder that contains all the libraries used 
+    │                 the folder that contains all the libraries used 
     │                 for rendering point clouds
     └─pointclouds --- database; the folder that stores the point cloud data
                    
